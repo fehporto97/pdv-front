@@ -1,9 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import CadFor from './CadFor';
+import App from './App';
 
 ReactDOM.render(
-  <CadFor />,
+  <App />,
   document.getElementById('root')
 );
